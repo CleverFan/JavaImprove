@@ -62,7 +62,7 @@ public class TestObject {
         System.out.println(i == j);
 
         Integer a = 500;
-        Integer b = 500;
+        Integer b = 50;
 
         System.out.println(a == b);
     }
