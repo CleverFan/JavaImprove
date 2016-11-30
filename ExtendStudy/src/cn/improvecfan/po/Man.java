@@ -4,6 +4,8 @@ package cn.improvecfan.po;
  * Created by chengfan on 2016/11/29.
  */
 public class Man extends Person {
+
+
     private Woman wife;
     private double money;
 
