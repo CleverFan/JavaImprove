@@ -13,13 +13,13 @@ import java.util.List;
 public class test {
     private Man man1;
 
-
-
     @Test
     public void testCons(){
 
         Man man = new Man();
         man.setName("jack");
+
+
 
         Woman woman = new Woman();
 
