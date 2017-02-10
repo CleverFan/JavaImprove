@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AbstractAndInterface/AbstractAndInterface.iml" filepath="$PROJECT_DIR$/AbstractAndInterface/AbstractAndInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/AllObject/AllObject.iml" filepath="$PROJECT_DIR$/AllObject/AllObject.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExtendCombination/ExtendCombination.iml" filepath="$PROJECT_DIR$/ExtendCombination/ExtendCombination.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExtendStudy/ExtendStudy.iml" filepath="$PROJECT_DIR$/ExtendStudy/ExtendStudy.iml" />
