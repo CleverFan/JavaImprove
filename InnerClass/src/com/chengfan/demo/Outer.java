@@ -19,6 +19,10 @@ public class Outer {
         private String getString(){
             return a + b + c; // 内部类可以访问外部类的private变量
         }
+
+        public Outer getOuter(){
+            return Outer.this; // .this指的是外部类的对象
+        }
     }
 
     public String getParam(){
