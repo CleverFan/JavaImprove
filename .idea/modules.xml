@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AbstractAndInterface/AbstractAndInterface.iml" filepath="$PROJECT_DIR$/AbstractAndInterface/AbstractAndInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/AllObject/AllObject.iml" filepath="$PROJECT_DIR$/AllObject/AllObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EnumLearn/EnumLearn.iml" filepath="$PROJECT_DIR$/EnumLearn/EnumLearn.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExtendCombination/ExtendCombination.iml" filepath="$PROJECT_DIR$/ExtendCombination/ExtendCombination.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExtendStudy/ExtendStudy.iml" filepath="$PROJECT_DIR$/ExtendStudy/ExtendStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/FinalLearn/FinalLearn.iml" filepath="$PROJECT_DIR$/FinalLearn/FinalLearn.iml" />
